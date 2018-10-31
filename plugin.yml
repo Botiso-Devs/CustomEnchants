@@ -2,7 +2,7 @@ name: CustomEnchant
 version: 1.0.0
 api: 3.3.0
 main: CE\Main
-author: xXNiceYT
+author: xXNiceYT, ThePandazManYT
 
 commands:
   ce:
